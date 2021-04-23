@@ -4,7 +4,7 @@ This repo contains some practice of visualizations for data analysis purpose. It
 - Univariate Exploration
 - Bivariate Exploration
 - Multivariate Exploration
-- Explanatory Visulizations
+- Explanatory Visualizations
 
 All codes written in Jupyter Notebook, and the packages used for visualizations are Matplotlib and Seaborn.
 
